@@ -1,0 +1,29 @@
+body {
+    background: blue;
+    font-family: 'Anton', sans-serif;
+}
+header h1 {
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+main p {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+main div {
+    text-align: center;
+    margin-bottom: 10px;
+    
+}
+.textbox {
+    width: 60%;
+    height: 50px;
+    font-size: 40px;
+    text-align: center;
+}
+.scoreboard h3 {
+    color: white;
+    text-decoration: underline;
+}
